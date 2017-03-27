@@ -2,7 +2,7 @@
 some code about design pattern.
 
 
-####Decorator 装饰器模式
+#### Decorator 装饰器模式
 ####abstractfactory 抽象工厂模式
 ####adapter 适配器模式
 ####builder 建造者模式
