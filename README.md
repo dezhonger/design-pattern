@@ -1,4 +1,4 @@
-# design-pattern
+﻿# design-pattern
 some code about design pattern.
 
 
@@ -10,6 +10,6 @@ some code about design pattern.
 #### facade 外观模式
 #### muban 模板模式
 #### proxy_pattern 代理模式
-#### publish_subscribe 发布订阅者模式
+#### publish_subscribe 观察者模式,又叫发布订阅者模式
 #### static_factory_method 静态工厂模式
 #### strategy 策略模式
