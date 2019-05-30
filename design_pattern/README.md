@@ -14,3 +14,4 @@ some code about design pattern.
 #### static_factory_method 静态工厂模式,简单工厂模式
 #### abstractfactory 抽象工厂模式
 #### 工厂方法模式 todo
+#### aopchain: spring aop实现中使用的拦截器链的一种模式
